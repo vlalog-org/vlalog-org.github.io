@@ -11,4 +11,4 @@
 <p>Thats all.<p>
 <p><b>Remind:</b> Don't use any GitHub repositories</p>
 <h1>GoodLuck!</h1>
-<p>Let's go! Download this file: <a href="https://github.com/vlalog-org/cripto/tasks/first">a.rar</a>
+<p>Let's go! Download file: <a href="https://vlalog-org.github.io/cripto/tasks/first">here</a>
